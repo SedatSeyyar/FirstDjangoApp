@@ -1,0 +1,11 @@
+li {
+    color: white;
+}
+li a {
+    color: pink;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size: 100%;
+}
